@@ -7,7 +7,39 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>琪琪的宝库</copyright>
-        <lastBuildDate>Sun, 30 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://siriforu.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://siriforu.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>数学</title>
+        <link>https://siriforu.github.io/categories/%E6%95%B0%E5%AD%A6/</link>
+        <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://siriforu.github.io/categories/%E6%95%B0%E5%AD%A6/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>英语</title>
+        <link>https://siriforu.github.io/categories/%E8%8B%B1%E8%AF%AD/</link>
+        <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://siriforu.github.io/categories/%E8%8B%B1%E8%AF%AD/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>语文</title>
+        <link>https://siriforu.github.io/categories/%E8%AF%AD%E6%96%87/</link>
+        <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://siriforu.github.io/categories/%E8%AF%AD%E6%96%87/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>中文</title>
+        <link>https://siriforu.github.io/categories/%E4%B8%AD%E6%96%87/</link>
+        <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://siriforu.github.io/categories/%E4%B8%AD%E6%96%87/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>化学</title>
         <link>https://siriforu.github.io/categories/%E5%8C%96%E5%AD%A6/</link>
         <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
@@ -16,43 +48,11 @@
         <description></description>
         </item>
         <item>
-        <title>数学</title>
-        <link>https://siriforu.github.io/categories/%E6%95%B0%E5%AD%A6/</link>
-        <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://siriforu.github.io/categories/%E6%95%B0%E5%AD%A6/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>物理</title>
         <link>https://siriforu.github.io/categories/%E7%89%A9%E7%90%86/</link>
         <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
         
         <guid>https://siriforu.github.io/categories/%E7%89%A9%E7%90%86/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>英语</title>
-        <link>https://siriforu.github.io/categories/%E8%8B%B1%E8%AF%AD/</link>
-        <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://siriforu.github.io/categories/%E8%8B%B1%E8%AF%AD/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>语文</title>
-        <link>https://siriforu.github.io/categories/%E8%AF%AD%E6%96%87/</link>
-        <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://siriforu.github.io/categories/%E8%AF%AD%E6%96%87/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>中文</title>
-        <link>https://siriforu.github.io/categories/%E4%B8%AD%E6%96%87/</link>
-        <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://siriforu.github.io/categories/%E4%B8%AD%E6%96%87/</guid>
         <description></description>
         </item>
         <item>
