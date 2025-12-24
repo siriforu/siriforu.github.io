@@ -7,18 +7,10 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>琪琪的宝库</copyright>
-        <lastBuildDate>Tue, 23 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://siriforu.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Highlights</title>
-        <link>https://siriforu.github.io/tags/highlights/</link>
-        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://siriforu.github.io/tags/highlights/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Wed, 24 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://siriforu.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>World Book</title>
         <link>https://siriforu.github.io/tags/world-book/</link>
-        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
         
         <guid>https://siriforu.github.io/tags/world-book/</guid>
         <description></description>
@@ -26,9 +18,17 @@
         <item>
         <title>英文读物</title>
         <link>https://siriforu.github.io/tags/%E8%8B%B1%E6%96%87%E8%AF%BB%E7%89%A9/</link>
-        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
         
         <guid>https://siriforu.github.io/tags/%E8%8B%B1%E6%96%87%E8%AF%BB%E7%89%A9/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Highlights</title>
+        <link>https://siriforu.github.io/tags/highlights/</link>
+        <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://siriforu.github.io/tags/highlights/</guid>
         <description></description>
         </item>
         <item>
